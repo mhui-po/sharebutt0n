@@ -13,7 +13,7 @@
     "chalk": "2.3.0",
     "cors": "2.8.4",
     "eccjs": "0.3.1",
-    "express":  "4.15.3",
+    "express":  "4.17.3",
     "express-graphql" : "./resources/libs/express-graphql-0.6.13.tgz",
     "graphql": "0.13.1",
     "graphql-fields" : "1.0.2",
